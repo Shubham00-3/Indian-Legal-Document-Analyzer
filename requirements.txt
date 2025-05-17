@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-pinecone  # Add this line - note the hyphen, not underscore
+pypdf
+pinecone-client
+python-dotenv
+groq
+networkx
+matplotlib
+pandas
+altair
+sentence-transformers
