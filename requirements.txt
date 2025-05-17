@@ -1,7 +1,8 @@
 streamlit
 langchain
 langchain-community
-langchain-pinecone  # Add this line - note the hyphen, not underscore
+langchain-pinecone
+langchain-groq  # Add this line
 pypdf
 pinecone-client
 python-dotenv
