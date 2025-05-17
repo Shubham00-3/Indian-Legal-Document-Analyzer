@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+faiss-cpu
+pandas
+numpy
+tiktoken
+python-dotenv
+pinecone-client
+langchain-pinecone

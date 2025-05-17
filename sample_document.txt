@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.
+
+The term "artificial intelligence" was first used in 1956 during the Dartmouth Conference, where the field was officially founded. AI research was founded as an academic discipline on the assumption that human intelligence can be so precisely described that a machine can be made to simulate it.
+
+Machine learning is a subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Deep learning is a subset of machine learning composed of algorithms that permit software to train itself to perform tasks by exposing multilayered neural networks to vast amounts of data.
+
+Natural Language Processing (NLP) is a field of AI that gives computers the ability to understand text and spoken words in much the same way human beings can. Computer vision is an interdisciplinary field that deals with how computers can gain high-level understanding from digital images or videos.
+
+Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Robotics is a field that combines mechanical engineering, electrical engineering, and computer science for the design and manufacturing of robots.
+
+The field of AI ethics examines issues at the intersection of the technology and civil society. The ethical concerns surrounding AI include privacy, bias and discrimination, transparency, and the long-term implications of increasingly capable and autonomous systems.

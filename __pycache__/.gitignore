@@ -1,0 +1,21 @@
+# Sensitive information
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual Environment
+venv/
+ENV/
+
+# Temp files
+.DS_Store
+*.swp
+*.swo
+
+# Pinecone and other caches
+.cache/
